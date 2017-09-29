@@ -1,4 +1,4 @@
-# 本人邮箱 1369377423@qq.com  
- RecyclerView简单使用 近期会逐步更新
-  首次发布 请多谅解 
-  
+#RecyclerView
+ 简单使用与adapter封装
+ 首次发布 请多谅解
+ 本人邮箱:13699377423@qq.com 
